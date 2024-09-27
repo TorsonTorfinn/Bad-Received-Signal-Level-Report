@@ -4,7 +4,7 @@ import glob
 from pathlib import Path
 import os
 
-file = 'Report MSS Report.xlsx'
+file = 'Ready MSS Report.xlsx'
 # link_pattern = r"^[A-Za-z]{2}\d{4}[-_][A-Za-z]\d{4}$"
 
 home_directory = os.path.expanduser('~')
